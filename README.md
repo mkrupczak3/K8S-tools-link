@@ -7,3 +7,7 @@
 [Open FaaS Introducing the PLONK stack](https://www.openfaas.com/blog/plonk-stack/)
 
 [collabnix](http://collabnix.com/)
+
+[collabnix kubetools](https://dockerlabs.collabnix.com/kubernetes/kubetools/)
+
+[Kubernauts tools](https://kubernauts.de/en/home/)
