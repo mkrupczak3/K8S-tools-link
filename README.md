@@ -10,4 +10,6 @@
 
 [collabnix kubetools](https://dockerlabs.collabnix.com/kubernetes/kubetools/)
 
-[Kubernauts tools](https://kubernauts.de/en/home/)
+[Kubernauts](https://kubernauts.de/en/home/)
+
+[Kubernauts golden tools list](https://docs.google.com/spreadsheets/d/1WPHt0gsb7adVzY3eviMK2W8LejV0I5m_Zpc8tMzl_2w/htmlview#gid=0)
