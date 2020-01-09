@@ -15,3 +15,5 @@
 [Kubernauts golden tools list](https://docs.google.com/spreadsheets/d/1WPHt0gsb7adVzY3eviMK2W8LejV0I5m_Zpc8tMzl_2w/htmlview#gid=0)
 
 [Collabnix kubelabs tutorials](https://github.com/collabnix/kubelabs)
+
+[Kubernetes (K8s), K3s minikube microkube, wtf?](https://www.reddit.com/r/kubernetes/comments/be0415/k3s_minikube_or_microk8s/)
